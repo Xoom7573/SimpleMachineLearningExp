@@ -1,0 +1,23 @@
+{
+  "name": "simplemachinelearningexp",
+  "version": "1.0.0",
+  "description": "My first interaction with machine learning!",
+  "main": "index.js",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xoom7573/SimpleMachineLearningExp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xoom7573/SimpleMachineLearningExp/issues"
+  },
+  "homepage": "https://github.com/Xoom7573/SimpleMachineLearningExp#readme"
+}
