@@ -14,6 +14,6 @@ network.train([
   { input: [2, 4], output: [1] }    // Team 4 wins
 ]);
 
-const output = network.run([1, 4]); // team 4 should be winning!
+const output = network.run([4, 3]); // team 4 should be winning!
 
 console.log(`Change of winning: ${output}`);
